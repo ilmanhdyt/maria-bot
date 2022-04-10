@@ -1,1 +1,3 @@
-### 😎
+### Maria Arusu
+
+# Discord Bot
